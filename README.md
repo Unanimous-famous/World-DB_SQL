@@ -154,7 +154,6 @@ FROM city
 WHERE population >= 2000000;
 ```
 
-'''
 | Name               | Population |
 |--------------------|------------|
 | Alger              | 2168000    |
@@ -174,7 +173,7 @@ WHERE population >= 2000000;
 | Cairo              | 6789479    |
 | ...                | ...        |
 
-'''
+
 
 
 ## 6. Cities Beginning with 'Be' Prefix
